@@ -34,7 +34,13 @@
 			<artifactId>hadoop-client</artifactId>
 			<version>2.6.4</version>
 			<scope>compile</scope>
-		</dependency>	
+		</dependency>
+
+		<dependency>
+			<groupId>commons-codec</groupId>
+			<artifactId>commons-codec</artifactId>
+			<version>1.11</version>
+		</dependency>
 
 	</dependencies>
 
